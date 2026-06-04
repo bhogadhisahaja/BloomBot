@@ -1,0 +1,9 @@
+*, *::before, *::after { box-sizing: border-box; }
+html, body, #root {
+  height: 100%;
+  margin: 0; padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fdf6f0;
+}

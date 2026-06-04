@@ -1,0 +1,1992 @@
+[
+  {
+    "section_id": "S0",
+    "section_title": "Domain Knowledge",
+    "section_summary": "Brand overview, customer segments, and customer journey.",
+    "keywords": [
+      "TwistNBloom",
+      "handmade flowers",
+      "gifting",
+      "customer journey"
+    ],
+    "content": [
+      {
+        "content_id": "S0_C1",
+        "content_type": "paragraph",
+        "heading": "Brand Overview",
+        "paragraph": "TwistNBloom is a handmade floral gifting brand specializing in pipe cleaner flowers, bouquets, flower pots, keychains, magnets, graduation gifts, and customized floral products. The products are long-lasting, reusable, customizable, allergy-friendly, and suitable for gifting as well as home décor.",
+        "semantic_tags": [
+          "brand",
+          "products",
+          "gifting"
+        ],
+        "important_entities": [
+          "TwistNBloom"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "1",
+          "topic": "Brand",
+          "subtopic": "Overview"
+        }
+      },
+      {
+        "content_id": "S0_C2",
+        "content_type": "paragraph",
+        "heading": "Customer Segments and Journey",
+        "paragraph": "The primary customer segments include birthday shoppers, anniversary shoppers, students, graduation gift buyers, handmade craft lovers, home décor enthusiasts, couples, and corporate gifting customers. The customer journey typically follows gift selection, product discovery, customization, ordering, delivery, and after-sales support.",
+        "semantic_tags": [
+          "customers",
+          "journey"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "1",
+          "topic": "Customers",
+          "subtopic": "Journey"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S1",
+    "section_title": "Flower Knowledge Base",
+    "section_summary": "Meaning and symbolism of flowers used in TwistNBloom products and gifting recommendations.",
+    "keywords": [
+      "rose",
+      "tulip",
+      "sunflower",
+      "lavender",
+      "lily",
+      "daisy",
+      "flower meanings",
+      "flower symbolism"
+    ],
+    "content": [
+      {
+        "content_id": "S1_C1",
+        "content_type": "paragraph",
+        "heading": "Flower Meanings",
+        "paragraph": "Flowers play an important role in gifting because each flower conveys a unique emotional meaning. Rose symbolizes love, romance, and affection, making it ideal for anniversaries and romantic occasions. Tulip represents happiness and new beginnings, making it suitable for celebrations and fresh starts. Sunflower conveys positivity, friendship, and success, making it a popular choice for birthdays and friendship gifts. Lavender is associated with calmness and elegance and is often chosen for aesthetic décor and thoughtful gifts. Lily symbolizes purity and beauty, while Daisy represents cheerfulness and positivity. These meanings help customers choose products that best match the emotions and occasions they wish to express.",
+        "semantic_tags": [
+          "flower meanings",
+          "flower symbolism",
+          "gifting guide",
+          "flower knowledge"
+        ],
+        "important_entities": [
+          "Rose",
+          "Tulip",
+          "Sunflower",
+          "Lavender",
+          "Lily",
+          "Daisy"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "1",
+          "topic": "Flowers",
+          "subtopic": "Meaning and Symbolism"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S2",
+    "section_title": "Color and Emotion Guide",
+    "section_summary": "Relationship between flower colors and the emotions they communicate in gifting and decorative arrangements.",
+    "keywords": [
+      "red",
+      "pink",
+      "yellow",
+      "white",
+      "purple",
+      "blue",
+      "orange",
+      "color psychology",
+      "emotions",
+      "gifting"
+    ],
+    "content": [
+      {
+        "content_id": "S2_C1",
+        "content_type": "paragraph",
+        "heading": "Color Associations and Emotional Meanings",
+        "paragraph": "Color selection plays an important role in floral gifting because different colors communicate different emotions and intentions. Red symbolizes love, passion, and deep affection, making it ideal for romantic gifts and anniversaries. Pink represents gratitude, admiration, and appreciation, making it suitable for expressing thanks and heartfelt feelings. Yellow conveys friendship, happiness, positivity, and joy, making it a popular choice for birthday gifts and friendship bouquets. White symbolizes purity, elegance, sincerity, and peace, making it appropriate for sophisticated and meaningful gifting occasions. Purple represents luxury, creativity, and uniqueness, making it suitable for premium and customized floral arrangements. Blue conveys calmness, trust, reliability, and serenity, while orange represents celebration, enthusiasm, excitement, and energetic emotions. Understanding these color meanings helps customers personalize floral products according to the message they want to communicate.",
+        "semantic_tags": [
+          "color meanings",
+          "emotional symbolism",
+          "gifting psychology",
+          "color guide",
+          "flower customization"
+        ],
+        "important_entities": [
+          "Red",
+          "Pink",
+          "Yellow",
+          "White",
+          "Purple",
+          "Blue",
+          "Orange"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "1",
+          "topic": "Colors",
+          "subtopic": "Emotion and Symbolism"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S3",
+    "section_title": "Occasion Guide",
+    "section_summary": "Recommendations for selecting suitable floral products based on gifting occasions, celebrations, relationships, and decorative needs.",
+    "keywords": [
+      "birthday gifts",
+      "anniversary gifts",
+      "graduation gifts",
+      "friendship gifts",
+      "home decor",
+      "occasion recommendations",
+      "gift selection"
+    ],
+    "content": [
+      {
+        "content_id": "S3_C1",
+        "content_type": "paragraph",
+        "heading": "Birthday Gift Recommendations",
+        "paragraph": "Birthdays are occasions that celebrate joy, happiness, and personal milestones. For birthday gifting, TwistNBloom recommends products such as the Sunflower Mini Bouquet and Mixed Floral Bouquet. Sunflowers symbolize positivity, happiness, and success, making them an excellent choice for cheerful celebrations. Mixed Floral Bouquets provide a colorful and vibrant gifting option that suits recipients of different ages and preferences while creating memorable moments.",
+        "semantic_tags": [
+          "birthday",
+          "gift recommendations",
+          "sunflower bouquet",
+          "celebration gifts"
+        ],
+        "important_entities": [
+          "Sunflower Mini Bouquet",
+          "Mixed Floral Bouquet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "2",
+          "topic": "Occasions",
+          "subtopic": "Birthday"
+        }
+      },
+      {
+        "content_id": "S3_C2",
+        "content_type": "paragraph",
+        "heading": "Anniversary Gift Recommendations",
+        "paragraph": "Anniversaries celebrate love, commitment, and cherished relationships. TwistNBloom recommends Roses Bouquet and Tulip Bouquet for anniversary gifting. Roses symbolize romance, affection, and deep emotional connection, while tulips represent happiness and new beginnings. These bouquets are designed to create meaningful gifting experiences and lasting memories for couples celebrating special milestones.",
+        "semantic_tags": [
+          "anniversary",
+          "romantic gifts",
+          "rose bouquet",
+          "tulip bouquet"
+        ],
+        "important_entities": [
+          "Roses Bouquet",
+          "Tulip Bouquet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "2",
+          "topic": "Occasions",
+          "subtopic": "Anniversary"
+        }
+      },
+      {
+        "content_id": "S3_C3",
+        "content_type": "paragraph",
+        "heading": "Graduation Gift Recommendations",
+        "paragraph": "Graduation marks academic achievement and the beginning of a new journey. For graduation celebrations, TwistNBloom recommends the Luxury Graduation Bouquet and Personalized Name Graduation Bouquet. These products are designed specifically for graduates and can include personalized elements such as names, graduation years, decorative accessories, premium wrapping, pearls, and LED lights to make the occasion memorable and unique.",
+        "semantic_tags": [
+          "graduation",
+          "achievement gifts",
+          "personalized bouquets",
+          "graduation bouquet"
+        ],
+        "important_entities": [
+          "Luxury Graduation Bouquet",
+          "Personalized Name Graduation Bouquet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "2",
+          "topic": "Occasions",
+          "subtopic": "Graduation"
+        }
+      },
+      {
+        "content_id": "S3_C4",
+        "content_type": "paragraph",
+        "heading": "Friendship Gift Recommendations",
+        "paragraph": "Friendship gifts are intended to celebrate appreciation, companionship, and positive relationships. TwistNBloom recommends the Sunflower Bouquet and Daisy Flower Magnet as ideal friendship gifts. Sunflowers represent friendship, positivity, and encouragement, while daisies symbolize cheerfulness and happiness. These products help customers express gratitude and strengthen meaningful friendships.",
+        "semantic_tags": [
+          "friendship",
+          "friendship gifts",
+          "sunflower bouquet",
+          "daisy magnet"
+        ],
+        "important_entities": [
+          "Sunflower Bouquet",
+          "Daisy Flower Magnet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "2",
+          "topic": "Occasions",
+          "subtopic": "Friendship"
+        }
+      },
+      {
+        "content_id": "S3_C5",
+        "content_type": "paragraph",
+        "heading": "Home Decor Recommendations",
+        "paragraph": "For customers seeking decorative products, TwistNBloom offers several home décor floral options including Lily Flower Pot, Single Lavender Stem, and Mini Tulips Flowerpot. These handmade floral products provide long-lasting aesthetic appeal without the maintenance requirements of fresh flowers. They are suitable for desks, living spaces, bedrooms, offices, and decorative gifting purposes.",
+        "semantic_tags": [
+          "home decor",
+          "decorative flowers",
+          "flower pots",
+          "aesthetic gifts"
+        ],
+        "important_entities": [
+          "Lily Flower Pot",
+          "Single Lavender Stem",
+          "Mini Tulips Flowerpot"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "2",
+          "topic": "Occasions",
+          "subtopic": "Home Decor"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S4",
+    "section_title": "Detailed Product Catalog",
+    "section_summary": "Comprehensive catalog of TwistNBloom products including bouquets, graduation gifts, home décor florals, flower pots, keychains, and fridge magnets. Each product includes pricing, size, usage recommendations, and customization information.",
+    "keywords": [
+      "bouquets",
+      "graduation gifts",
+      "flower pots",
+      "keychains",
+      "fridge magnets",
+      "handmade gifts",
+      "pipe cleaner flowers"
+    ],
+    "content": [
+      {
+        "content_id": "P1",
+        "content_type": "product",
+        "heading": "Rose Mini Bouquet",
+        "paragraph": "The Rose Mini Bouquet is a handcrafted floral arrangement priced at ₹90 and designed in a small size format. It features elegant wrapping and is suitable for birthdays, anniversaries, romantic gifting, and memorable celebrations. The bouquet offers a long-lasting alternative to fresh flowers while maintaining an attractive and decorative appearance. Available colors include red, pink, white, blue, purple, orange, and yellow.",
+        "semantic_tags": [
+          "mini bouquet",
+          "rose",
+          "romantic gift",
+          "birthday gift"
+        ],
+        "important_entities": [
+          "Rose Mini Bouquet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "2",
+          "topic": "Products",
+          "subtopic": "Mini Bouquets"
+        }
+      },
+      {
+        "content_id": "P2",
+        "content_type": "product",
+        "heading": "Sunflower Mini Bouquet",
+        "paragraph": "The Sunflower Mini Bouquet is a small handcrafted bouquet priced at ₹100. It features vibrant wrapping and cheerful floral styling, making it suitable for gifting, room decoration, celebrations, friendship gifts, and birthdays. The product emphasizes positivity and happiness while providing long-lasting floral beauty. Available colors include yellow and orange.",
+        "semantic_tags": [
+          "mini bouquet",
+          "sunflower",
+          "friendship gift",
+          "birthday gift"
+        ],
+        "important_entities": [
+          "Sunflower Mini Bouquet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "2",
+          "topic": "Products",
+          "subtopic": "Mini Bouquets"
+        }
+      },
+      {
+        "content_id": "P3",
+        "content_type": "product",
+        "heading": "Tulip Mini Bouquet",
+        "paragraph": "The Tulip Mini Bouquet is a handcrafted floral arrangement priced at ₹85. It is designed for gifting, celebrations, and special occasions where elegance and simplicity are desired. The bouquet provides long-lasting decorative value and is available in red, pink, white, blue, purple, orange, and yellow color options.",
+        "semantic_tags": [
+          "mini bouquet",
+          "tulip",
+          "celebration gift"
+        ],
+        "important_entities": [
+          "Tulip Mini Bouquet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "3",
+          "topic": "Products",
+          "subtopic": "Mini Bouquets"
+        }
+      },
+      {
+        "content_id": "P4",
+        "content_type": "product",
+        "heading": "Mixed Floral Bouquet",
+        "paragraph": "The Mixed Floral Bouquet is a medium-sized handcrafted bouquet priced at ₹400. It features a colorful assortment of flowers and is suitable for celebrations, gifting, decoration, and memorable occasions. The bouquet combines multiple floral styles to create a vibrant and versatile gifting option.",
+        "semantic_tags": [
+          "regular bouquet",
+          "mixed flowers",
+          "celebration gift"
+        ],
+        "important_entities": [
+          "Mixed Floral Bouquet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "3",
+          "topic": "Products",
+          "subtopic": "Regular Bouquets"
+        }
+      },
+      {
+        "content_id": "P5",
+        "content_type": "product",
+        "heading": "Roses Bouquet",
+        "paragraph": "The Roses Bouquet is a medium-sized handcrafted arrangement priced at ₹450. Designed for romantic occasions, anniversaries, celebrations, and decorative gifting, the bouquet features elegant floral styling that creates memorable experiences and expresses affection effectively.",
+        "semantic_tags": [
+          "regular bouquet",
+          "rose bouquet",
+          "anniversary gift",
+          "romantic gift"
+        ],
+        "important_entities": [
+          "Roses Bouquet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "3",
+          "topic": "Products",
+          "subtopic": "Regular Bouquets"
+        }
+      },
+      {
+        "content_id": "P6",
+        "content_type": "product",
+        "heading": "Tulip Bouquet",
+        "paragraph": "The Tulip Bouquet is a premium handmade floral arrangement priced at ₹700 and designed in a large size format. Crafted using premium pipe cleaners, elegant wrapping, and aesthetic detailing, this bouquet is ideal for anniversaries, birthdays, celebrations, and luxury gifting. It combines elegance and long-lasting beauty, making it a suitable alternative to fresh flowers. Available colors include red, pink, white, blue, purple, orange, and yellow.",
+        "semantic_tags": [
+          "premium bouquet",
+          "tulip bouquet",
+          "luxury gift",
+          "anniversary gift"
+        ],
+        "important_entities": [
+          "Tulip Bouquet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "4",
+          "topic": "Products",
+          "subtopic": "Premium Bouquets"
+        }
+      },
+      {
+        "content_id": "P7",
+        "content_type": "product",
+        "heading": "Sunflower Bouquet",
+        "paragraph": "The Sunflower Bouquet is a premium handcrafted bouquet priced at ₹850. Created using high-quality pipe cleaners and elegant wrapping, this bouquet is suitable for birthdays, friendship gifts, room décor, celebrations, and special occasions. Its vibrant appearance reflects positivity, success, and happiness. Available colors include yellow and orange.",
+        "semantic_tags": [
+          "premium bouquet",
+          "sunflower bouquet",
+          "friendship gift",
+          "birthday gift"
+        ],
+        "important_entities": [
+          "Sunflower Bouquet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "4",
+          "topic": "Products",
+          "subtopic": "Premium Bouquets"
+        }
+      },
+      {
+        "content_id": "P8",
+        "content_type": "product",
+        "heading": "Luxury Graduation Bouquet",
+        "paragraph": "The Luxury Graduation Bouquet is a premium large-sized bouquet priced at ₹860. It includes roses, tulips, LED lights, decorative pearls, and elegant wrapping designed specifically for graduation celebrations. This bouquet is intended to create a memorable gifting experience and serves as a premium keepsake for graduates. Available colors include red, pink, white, blue, purple, orange, and yellow.",
+        "semantic_tags": [
+          "graduation bouquet",
+          "premium gift",
+          "graduation celebration",
+          "custom gift"
+        ],
+        "important_entities": [
+          "Luxury Graduation Bouquet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "4",
+          "topic": "Products",
+          "subtopic": "Graduation Bouquets"
+        }
+      },
+      {
+        "content_id": "P9",
+        "content_type": "product",
+        "heading": "Personalized Name Graduation Bouquet",
+        "paragraph": "The Personalized Name Graduation Bouquet is a medium-sized customized bouquet priced at ₹550. It features the graduate's name, graduation year, and themed decorative elements. This product is designed to celebrate academic achievements while providing a personalized and memorable gifting experience. Available colors include red, pink, white, blue, purple, orange, and yellow.",
+        "semantic_tags": [
+          "graduation bouquet",
+          "personalized gift",
+          "custom bouquet",
+          "graduation celebration"
+        ],
+        "important_entities": [
+          "Personalized Name Graduation Bouquet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "5",
+          "topic": "Products",
+          "subtopic": "Graduation Bouquets"
+        }
+      },
+      {
+        "content_id": "P10",
+        "content_type": "product",
+        "heading": "Large Flower Bouquet",
+        "paragraph": "The Large Flower Bouquet is a fully customized floral arrangement priced at ₹870. Customers can personalize flower selection, colors, wrapping styles, ribbons, decorative accessories, and additional embellishments. This bouquet is intended for luxury gifting, grand celebrations, and customers seeking a highly personalized floral product. Available colors include red, pink, white, blue, purple, orange, and yellow.",
+        "semantic_tags": [
+          "custom bouquet",
+          "luxury bouquet",
+          "personalized gift",
+          "celebration gift"
+        ],
+        "important_entities": [
+          "Large Flower Bouquet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "5",
+          "topic": "Products",
+          "subtopic": "Customized Bouquets"
+        }
+      },
+      {
+        "content_id": "P11",
+        "content_type": "product",
+        "heading": "Single Sunflower Stem",
+        "paragraph": "The Single Sunflower Stem is a small handcrafted floral product priced at ₹70. Made using premium pipe cleaners, it is designed for cheerful gifting, friendship celebrations, birthdays, desk decoration, and home décor. The product provides a simple yet vibrant floral display while maintaining the durability and reusability associated with handmade pipe cleaner flowers.",
+        "semantic_tags": [
+          "home decor",
+          "sunflower stem",
+          "friendship gift",
+          "decorative flower"
+        ],
+        "important_entities": [
+          "Single Sunflower Stem"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "5",
+          "topic": "Products",
+          "subtopic": "Home Decor Florals"
+        }
+      },
+      {
+        "content_id": "P12",
+        "content_type": "product",
+        "heading": "Single Lavender Stem",
+        "paragraph": "The Single Lavender Stem is a small handmade decorative floral product priced at ₹60. Crafted using soft pipe cleaners, it is suitable for aesthetic room décor, calming gifts, workspace decoration, and elegant gifting. Lavender symbolizes calmness and sophistication, making this product ideal for customers seeking subtle decorative arrangements.",
+        "semantic_tags": [
+          "home decor",
+          "lavender stem",
+          "decorative flower",
+          "aesthetic gift"
+        ],
+        "important_entities": [
+          "Single Lavender Stem"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "6",
+          "topic": "Products",
+          "subtopic": "Home Decor Florals"
+        }
+      },
+      {
+        "content_id": "P13",
+        "content_type": "product",
+        "heading": "Single Tulip Stem",
+        "paragraph": "The Single Tulip Stem is a handcrafted decorative flower priced at ₹80. Designed using premium pipe cleaners, it serves as an elegant gifting item and decorative piece suitable for birthdays, celebrations, desks, rooms, and aesthetic home décor. The product reflects the symbolism of happiness and new beginnings associated with tulips.",
+        "semantic_tags": [
+          "home decor",
+          "tulip stem",
+          "decorative flower",
+          "gift item"
+        ],
+        "important_entities": [
+          "Single Tulip Stem"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "6",
+          "topic": "Products",
+          "subtopic": "Home Decor Florals"
+        }
+      },
+      {
+        "content_id": "P14",
+        "content_type": "product",
+        "heading": "Mini Tulips Flowerpot",
+        "paragraph": "The Mini Tulips Flowerpot is a medium-sized handmade decorative flowerpot priced at ₹200. Crafted using colorful pipe cleaners, it is suitable for desk décor, home decoration, office decoration, and gifting purposes. The product offers a compact and long-lasting floral arrangement that enhances indoor spaces without requiring maintenance.",
+        "semantic_tags": [
+          "flower pot",
+          "home decor",
+          "desk decor",
+          "tulip flowerpot"
+        ],
+        "important_entities": [
+          "Mini Tulips Flowerpot"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "6",
+          "topic": "Products",
+          "subtopic": "Flower Pots"
+        }
+      },
+      {
+        "content_id": "P15",
+        "content_type": "product",
+        "heading": "Lily Flower Pot",
+        "paragraph": "The Lily Flower Pot is a medium-sized handmade floral decoration priced at ₹150. Constructed using premium pipe cleaners, it is intended for home décor, gifting, workspace decoration, and aesthetic interior styling. Inspired by the symbolism of purity and beauty, this product serves as a long-lasting decorative floral arrangement.",
+        "semantic_tags": [
+          "flower pot",
+          "lily flower pot",
+          "home decor",
+          "decorative arrangement"
+        ],
+        "important_entities": [
+          "Lily Flower Pot"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "7",
+          "topic": "Products",
+          "subtopic": "Flower Pots"
+        }
+      },
+      {
+        "content_id": "P16",
+        "content_type": "product",
+        "heading": "Teddy Bear Keychain",
+        "paragraph": "The Teddy Bear Keychain is a handmade miniature accessory priced at ₹90. Crafted using soft pipe cleaners, it is designed for use with keys, handbags, backpacks, and decorative accessories. The product combines functionality with aesthetic appeal and serves as a thoughtful gift for friends, students, and handmade craft enthusiasts. Available colors include red, pink, white, blue, purple, and brown.",
+        "semantic_tags": [
+          "keychain",
+          "teddy bear",
+          "accessory",
+          "gift item"
+        ],
+        "important_entities": [
+          "Teddy Bear Keychain"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "7",
+          "topic": "Products",
+          "subtopic": "Keychains"
+        }
+      },
+      {
+        "content_id": "P17",
+        "content_type": "product",
+        "heading": "Octopus with Pearls Charm Keychain",
+        "paragraph": "The Octopus with Pearls Charm Keychain is a handmade decorative accessory priced at ₹100. It features a colorful octopus design enhanced with pearl charms and is intended for keys, handbags, backpacks, and decorative use. The product is suitable for gifting and appeals to customers seeking unique handmade accessories. Available colors include red, pink, white, blue, purple, orange, and yellow.",
+        "semantic_tags": [
+          "keychain",
+          "octopus",
+          "accessory",
+          "handmade gift"
+        ],
+        "important_entities": [
+          "Octopus with Pearls Charm Keychain"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "7",
+          "topic": "Products",
+          "subtopic": "Keychains"
+        }
+      },
+      {
+        "content_id": "P18",
+        "content_type": "product",
+        "heading": "Mini Flower Pot Magnet",
+        "paragraph": "The Mini Flower Pot Magnet is a handmade refrigerator magnet priced at ₹90. Crafted using colorful pipe cleaners, it is designed for decorating refrigerators, magnetic surfaces, workspaces, and decorative corners. The product combines floral aesthetics with practical decorative functionality and can also be used as a gifting item. Available colors include red, pink, white, blue, purple, orange, and yellow.",
+        "semantic_tags": [
+          "fridge magnet",
+          "flower pot magnet",
+          "home decor",
+          "decorative accessory"
+        ],
+        "important_entities": [
+          "Mini Flower Pot Magnet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "8",
+          "topic": "Products",
+          "subtopic": "Fridge Magnets"
+        }
+      },
+      {
+        "content_id": "P19",
+        "content_type": "product",
+        "heading": "Daisy Flower Magnet",
+        "paragraph": "The Daisy Flower Magnet is a handmade decorative magnet priced at ₹50. Created using colorful pipe cleaners, it is intended for refrigerator decoration, aesthetic spaces, gifting, and decorative applications. Inspired by the cheerful symbolism of daisies, this product serves as an affordable and attractive decorative accessory. Available colors include red, pink, white, blue, purple, and orange.",
+        "semantic_tags": [
+          "fridge magnet",
+          "daisy magnet",
+          "decorative gift",
+          "home decor"
+        ],
+        "important_entities": [
+          "Daisy Flower Magnet"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "8",
+          "topic": "Products",
+          "subtopic": "Fridge Magnets"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S5",
+    "section_title": "Customization Options",
+    "section_summary": "Available customization features that allow customers to personalize floral gifts according to preferences, occasions, themes, and recipient requirements.",
+    "keywords": [
+      "customization",
+      "personalization",
+      "flower colors",
+      "wrapping styles",
+      "ribbons",
+      "LED lights",
+      "personalized gifts",
+      "custom bouquets"
+    ],
+    "content": [
+      {
+        "content_id": "S5_C1",
+        "content_type": "paragraph",
+        "heading": "Flower Color Customization",
+        "paragraph": "Customers can personalize floral products by selecting their preferred flower colors. Available color options include red, pink, white, blue, purple, orange, and yellow, depending on the product category. Color customization allows customers to match bouquets with personal preferences, recipient tastes, special occasions, or symbolic emotional meanings.",
+        "semantic_tags": [
+          "customization",
+          "flower colors",
+          "personalization"
+        ],
+        "important_entities": [
+          "Red",
+          "Pink",
+          "White",
+          "Blue",
+          "Purple",
+          "Orange",
+          "Yellow"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "8",
+          "topic": "Customization",
+          "subtopic": "Flower Colors"
+        }
+      },
+      {
+        "content_id": "S5_C2",
+        "content_type": "paragraph",
+        "heading": "Wrapping and Ribbon Personalization",
+        "paragraph": "Customers can customize bouquet wrapping styles and ribbon colors to create a unique presentation. Different wrapping combinations can be selected to suit birthdays, anniversaries, graduations, celebrations, friendship gifts, and luxury gifting occasions. Ribbon customization further enhances the visual appeal of the final product.",
+        "semantic_tags": [
+          "wrapping style",
+          "ribbon colors",
+          "gift presentation"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "8",
+          "topic": "Customization",
+          "subtopic": "Wrapping and Ribbons"
+        }
+      },
+      {
+        "content_id": "S5_C3",
+        "content_type": "paragraph",
+        "heading": "Decorative Add-ons",
+        "paragraph": "TwistNBloom offers decorative enhancements such as LED lights, pearls, butterflies, greeting cards, and other embellishments. These additions can be incorporated into bouquets and floral arrangements to create premium, visually appealing, and occasion-specific gifts that stand out from standard floral products.",
+        "semantic_tags": [
+          "LED lights",
+          "pearls",
+          "butterflies",
+          "greeting cards"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "8",
+          "topic": "Customization",
+          "subtopic": "Decorative Add-ons"
+        }
+      },
+      {
+        "content_id": "S5_C4",
+        "content_type": "paragraph",
+        "heading": "Personalized Names and Themes",
+        "paragraph": "Customers can request personalized names, special messages, graduation years, and themed decorative elements for selected products. This customization option is particularly popular for graduation bouquets, milestone celebrations, birthdays, and corporate gifting events where personalization enhances the emotional value of the gift.",
+        "semantic_tags": [
+          "personalized names",
+          "custom messages",
+          "themed gifts"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "8",
+          "topic": "Customization",
+          "subtopic": "Personalization"
+        }
+      },
+      {
+        "content_id": "S5_C5",
+        "content_type": "paragraph",
+        "heading": "Bouquet Size and Flower Mix Customization",
+        "paragraph": "Customers can customize bouquet sizes and flower combinations according to their requirements and budget. Different flower varieties can be combined into a single arrangement to create unique floral designs. This flexibility enables the creation of customized gifts suitable for both personal and corporate occasions.",
+        "semantic_tags": [
+          "bouquet size",
+          "flower mix",
+          "custom bouquets"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "8",
+          "topic": "Customization",
+          "subtopic": "Bouquet Design"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S6",
+    "section_title": "Delivery Information and Shipping Policy",
+    "section_summary": "Information regarding order preparation, shipping methods, delivery timelines, shipping charges, tracking, and delivery conditions.",
+    "keywords": [
+      "delivery",
+      "shipping",
+      "tracking",
+      "standard shipping",
+      "express shipping",
+      "same-day delivery",
+      "order fulfillment"
+    ],
+    "content": [
+      {
+        "content_id": "S6_C1",
+        "content_type": "paragraph",
+        "heading": "Order Preparation and Delivery Notes",
+        "paragraph": "TwistNBloom products are handmade and require preparation time before dispatch. Production timelines may vary depending on product complexity, customization requirements, and seasonal demand. Delivery timelines can increase during festival seasons and peak gifting periods. Premium bouquets are packed using fragile-protection packaging to ensure safe transportation. Customers receive a tracking link after dispatch so they can monitor shipment progress and estimated delivery dates.",
+        "semantic_tags": [
+          "order preparation",
+          "delivery notes",
+          "tracking",
+          "handmade products"
+        ],
+        "important_entities": [
+          "Tracking Link"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "8",
+          "topic": "Delivery",
+          "subtopic": "Preparation and Tracking"
+        }
+      },
+      {
+        "content_id": "S6_C2",
+        "content_type": "paragraph",
+        "heading": "Standard Shipping",
+        "paragraph": "Standard Shipping is the default shipping method offered by TwistNBloom. Orders require approximately one to two business days for processing and preparation before dispatch. After shipping, delivery generally takes between three and seven business days depending on destination and courier service availability. The shipping charge for Standard Shipping is ₹160.",
+        "semantic_tags": [
+          "standard shipping",
+          "delivery timeline",
+          "shipping charges"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "8",
+          "topic": "Shipping",
+          "subtopic": "Standard Shipping"
+        }
+      },
+      {
+        "content_id": "S6_C3",
+        "content_type": "paragraph",
+        "heading": "Express Shipping",
+        "paragraph": "Express Shipping is available for customers who require faster delivery. Orders shipped through this method generally arrive within one to three business days after dispatch. Availability may vary depending on city and courier coverage. The shipping charge for Express Shipping is ₹260.",
+        "semantic_tags": [
+          "express shipping",
+          "fast delivery",
+          "priority shipping"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "9",
+          "topic": "Shipping",
+          "subtopic": "Express Shipping"
+        }
+      },
+      {
+        "content_id": "S6_C4",
+        "content_type": "paragraph",
+        "heading": "Same-Day Delivery",
+        "paragraph": "Same-Day Delivery is available only for selected serviceable locations. Customers must place their orders before 12:00 PM to qualify for same-day fulfillment. Availability depends on product readiness, delivery capacity, and service location. The shipping charge for Same-Day Delivery is ₹350.",
+        "semantic_tags": [
+          "same-day delivery",
+          "urgent delivery",
+          "delivery service"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "9",
+          "topic": "Shipping",
+          "subtopic": "Same-Day Delivery"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S7",
+    "section_title": "Return Policy",
+    "section_summary": "Guidelines regarding eligible product returns, reporting requirements, verification procedures, and return eligibility conditions.",
+    "keywords": [
+      "return policy",
+      "damaged products",
+      "wrong item delivered",
+      "return eligibility",
+      "product verification"
+    ],
+    "content": [
+      {
+        "content_id": "S7_C1",
+        "content_type": "paragraph",
+        "heading": "Eligible Return Cases",
+        "paragraph": "TwistNBloom accepts returns only under specific circumstances to ensure fair resolution of delivery and product-related issues. Customers may request a return if they receive a damaged product or if the wrong item has been delivered. Returns are not accepted for reasons unrelated to product quality, delivery errors, or manufacturing defects.",
+        "semantic_tags": [
+          "returns",
+          "damaged products",
+          "wrong delivery"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "9",
+          "topic": "Returns",
+          "subtopic": "Eligibility"
+        }
+      },
+      {
+        "content_id": "S7_C2",
+        "content_type": "paragraph",
+        "heading": "Return Reporting Requirements",
+        "paragraph": "Customers must report return requests within 24 hours of receiving the order. Requests submitted after the reporting window may not qualify for return processing. Prompt reporting helps the business verify product condition, investigate shipping issues, and provide timely resolutions.",
+        "semantic_tags": [
+          "return request",
+          "reporting timeline",
+          "customer support"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "9",
+          "topic": "Returns",
+          "subtopic": "Reporting Timeline"
+        }
+      },
+      {
+        "content_id": "S7_C3",
+        "content_type": "paragraph",
+        "heading": "Verification Process",
+        "paragraph": "To verify return claims, customers must provide clear photographs or videos showing the damaged product, packaging condition, or incorrect item received. These visual records are used to assess eligibility and support the return approval process. Incomplete evidence may delay or affect claim evaluation.",
+        "semantic_tags": [
+          "verification",
+          "photos",
+          "videos",
+          "claim assessment"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "9",
+          "topic": "Returns",
+          "subtopic": "Verification"
+        }
+      },
+      {
+        "content_id": "S7_C4",
+        "content_type": "paragraph",
+        "heading": "Customized Product Return Conditions",
+        "paragraph": "Customized and personalized products are generally non-returnable because they are created specifically according to customer requirements. However, exceptions may be considered when customized products arrive damaged or defective. In such cases, customers must follow the standard reporting and verification procedures outlined in the return policy.",
+        "semantic_tags": [
+          "customized products",
+          "non-returnable",
+          "personalized gifts"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "9",
+          "topic": "Returns",
+          "subtopic": "Customized Products"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S8",
+    "section_title": "Refund Policy",
+    "section_summary": "Guidelines regarding refund eligibility, processing timelines, payment reversal procedures, and conditions under which refunds may or may not be granted.",
+    "keywords": [
+      "refund policy",
+      "refund eligibility",
+      "damaged products",
+      "incorrect products",
+      "failed delivery",
+      "payment refund"
+    ],
+    "content": [
+      {
+        "content_id": "S8_C1",
+        "content_type": "paragraph",
+        "heading": "Eligible Refund Cases",
+        "paragraph": "Refunds may be issued when customers receive damaged products, incorrect products, or when delivery fails due to reasons attributable to the seller or logistics provider. Refund requests are evaluated after verification of supporting evidence and order details. Approved cases proceed to refund processing according to the established refund policy.",
+        "semantic_tags": [
+          "refund eligibility",
+          "damaged products",
+          "incorrect products",
+          "failed delivery"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "9",
+          "topic": "Refunds",
+          "subtopic": "Eligibility"
+        }
+      },
+      {
+        "content_id": "S8_C2",
+        "content_type": "paragraph",
+        "heading": "Refund Processing Timeline",
+        "paragraph": "Once a refund request is approved, the refund is initiated through the original payment method used during purchase. Processing typically requires five to seven business days, although actual timelines may vary depending on banking institutions, payment gateways, and financial service providers.",
+        "semantic_tags": [
+          "refund timeline",
+          "payment processing",
+          "approved refunds"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "9",
+          "topic": "Refunds",
+          "subtopic": "Processing Timeline"
+        }
+      },
+      {
+        "content_id": "S8_C3",
+        "content_type": "paragraph",
+        "heading": "Refund Method",
+        "paragraph": "Refunds are generally credited back to the original payment source, including UPI accounts, debit cards, credit cards, bank accounts, or other supported payment methods. Customers are advised to verify payment details during checkout to avoid delays in refund processing.",
+        "semantic_tags": [
+          "refund method",
+          "UPI refund",
+          "card refund",
+          "bank transfer"
+        ],
+        "important_entities": [
+          "UPI"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "9",
+          "topic": "Refunds",
+          "subtopic": "Payment Method"
+        }
+      },
+      {
+        "content_id": "S8_C4",
+        "content_type": "paragraph",
+        "heading": "Non-Refundable Situations",
+        "paragraph": "Refunds are generally not available for change-of-mind purchases, incorrect customer-provided shipping information, delays caused by external factors beyond operational control, or customized products that have been produced according to approved customer specifications. Exceptions may be considered on a case-by-case basis where product quality issues are verified.",
+        "semantic_tags": [
+          "non-refundable",
+          "customized products",
+          "refund exclusions"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "9",
+          "topic": "Refunds",
+          "subtopic": "Exclusions"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S9",
+    "section_title": "Cancellation Policy",
+    "section_summary": "Guidelines regarding order cancellation requests, cancellation eligibility, customized product restrictions, and refund implications associated with canceled orders.",
+    "keywords": [
+      "cancellation policy",
+      "order cancellation",
+      "customized orders",
+      "refund eligibility",
+      "order processing"
+    ],
+    "content": [
+      {
+        "content_id": "S9_C1",
+        "content_type": "paragraph",
+        "heading": "Order Cancellation Eligibility",
+        "paragraph": "Customers may request order cancellation before production or customization work has begun. Since TwistNBloom products are handmade and often personalized, cancellation requests are reviewed based on the current stage of order processing. Orders that have not entered production are generally eligible for cancellation.",
+        "semantic_tags": [
+          "order cancellation",
+          "pre-production",
+          "order management"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "10",
+          "topic": "Cancellation",
+          "subtopic": "Eligibility"
+        }
+      },
+      {
+        "content_id": "S9_C2",
+        "content_type": "paragraph",
+        "heading": "Customized Order Restrictions",
+        "paragraph": "Customized and personalized products involve dedicated design and production efforts. Once customization work, material preparation, or production has started, cancellation requests may no longer be accepted. This policy helps protect resources invested in creating unique customer-specific products.",
+        "semantic_tags": [
+          "customized products",
+          "personalized orders",
+          "production restrictions"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "10",
+          "topic": "Cancellation",
+          "subtopic": "Customized Orders"
+        }
+      },
+      {
+        "content_id": "S9_C3",
+        "content_type": "paragraph",
+        "heading": "Cancellation Refund Process",
+        "paragraph": "Eligible canceled orders may qualify for a refund depending on the production stage and cancellation timing. Approved cancellation refunds are processed through the original payment method. Refund timelines generally follow the standard refund processing period of five to seven business days after cancellation approval.",
+        "semantic_tags": [
+          "cancellation refund",
+          "payment reversal",
+          "refund timeline"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "10",
+          "topic": "Cancellation",
+          "subtopic": "Refund Processing"
+        }
+      },
+      {
+        "content_id": "S9_C4",
+        "content_type": "paragraph",
+        "heading": "Orders Already Shipped",
+        "paragraph": "Orders that have already been dispatched or handed over to the courier service cannot be canceled. Customers are encouraged to review product selections, customization details, shipping information, and delivery requirements carefully before confirming their purchase.",
+        "semantic_tags": [
+          "shipped orders",
+          "dispatch",
+          "cancellation limitations"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "10",
+          "topic": "Cancellation",
+          "subtopic": "Shipped Orders"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S10",
+    "section_title": "Replacement Policy",
+    "section_summary": "Guidelines regarding product replacement eligibility, reporting requirements, verification procedures, and replacement fulfillment timelines.",
+    "keywords": [
+      "replacement policy",
+      "damaged products",
+      "wrong item delivered",
+      "product replacement",
+      "replacement eligibility"
+    ],
+    "content": [
+      {
+        "content_id": "S10_C1",
+        "content_type": "paragraph",
+        "heading": "Eligible Replacement Cases",
+        "paragraph": "TwistNBloom offers replacements when customers receive damaged products, defective items, or incorrect products that do not match the original order. Replacement requests are reviewed after verification of the reported issue and supporting evidence. The objective of the replacement policy is to ensure customer satisfaction while maintaining product quality standards.",
+        "semantic_tags": [
+          "replacement eligibility",
+          "damaged products",
+          "wrong product",
+          "quality assurance"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "10",
+          "topic": "Replacement",
+          "subtopic": "Eligibility"
+        }
+      },
+      {
+        "content_id": "S10_C2",
+        "content_type": "paragraph",
+        "heading": "Replacement Request Process",
+        "paragraph": "Customers must submit replacement requests within 24 hours of receiving the order. Requests should include clear photographs or videos showing the damaged, defective, or incorrect product. Providing complete information helps accelerate verification and ensures a smoother replacement process.",
+        "semantic_tags": [
+          "replacement request",
+          "verification",
+          "photos",
+          "videos"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "10",
+          "topic": "Replacement",
+          "subtopic": "Request Procedure"
+        }
+      },
+      {
+        "content_id": "S10_C3",
+        "content_type": "paragraph",
+        "heading": "Replacement Approval and Fulfillment",
+        "paragraph": "Once a replacement request is approved, TwistNBloom initiates the production and dispatch of the replacement item. Fulfillment timelines may vary depending on product availability, customization requirements, and current order volumes. Customers receive shipment updates and tracking details when the replacement order is dispatched.",
+        "semantic_tags": [
+          "replacement fulfillment",
+          "dispatch",
+          "tracking",
+          "customer updates"
+        ],
+        "important_entities": [
+          "Tracking Link"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "10",
+          "topic": "Replacement",
+          "subtopic": "Fulfillment"
+        }
+      },
+      {
+        "content_id": "S10_C4",
+        "content_type": "paragraph",
+        "heading": "Replacement Limitations",
+        "paragraph": "Replacement requests may be declined if evidence is insufficient, the reporting window has expired, or the issue results from customer misuse, improper handling, or unauthorized modifications. Customized products may qualify for replacement only when manufacturing defects, damage, or fulfillment errors are verified.",
+        "semantic_tags": [
+          "replacement limitations",
+          "customized products",
+          "claim evaluation"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "10",
+          "topic": "Replacement",
+          "subtopic": "Limitations"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S11",
+    "section_title": "Bulk Orders and Corporate Gifting Policy",
+    "section_summary": "Guidelines for bulk purchases, corporate gifting solutions, large event orders, customization services, pricing considerations, and order planning requirements.",
+    "keywords": [
+      "bulk orders",
+      "corporate gifting",
+      "event gifting",
+      "customized gifts",
+      "large orders",
+      "business gifting"
+    ],
+    "content": [
+      {
+        "content_id": "S11_C1",
+        "content_type": "paragraph",
+        "heading": "Bulk Order Services",
+        "paragraph": "TwistNBloom accepts bulk orders for customers who require multiple handmade floral products for events, celebrations, educational institutions, organizations, and gifting campaigns. Bulk ordering enables customers to purchase customized floral products in larger quantities while maintaining product quality and handcrafted detailing.",
+        "semantic_tags": [
+          "bulk orders",
+          "large quantity orders",
+          "event orders"
+        ],
+        "important_entities": [
+          "TwistNBloom"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "11",
+          "topic": "Bulk Orders",
+          "subtopic": "Services"
+        }
+      },
+      {
+        "content_id": "S11_C2",
+        "content_type": "paragraph",
+        "heading": "Corporate Gifting Solutions",
+        "paragraph": "Corporate customers can place orders for employee appreciation programs, corporate events, client gifting, festive gifting campaigns, award ceremonies, graduation events, and promotional activities. Handmade floral gifts provide a unique and memorable alternative to conventional corporate gifts while supporting personalization and branding opportunities.",
+        "semantic_tags": [
+          "corporate gifting",
+          "employee gifts",
+          "client gifts",
+          "business gifting"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "11",
+          "topic": "Corporate Gifting",
+          "subtopic": "Business Solutions"
+        }
+      },
+      {
+        "content_id": "S11_C3",
+        "content_type": "paragraph",
+        "heading": "Bulk Customization Options",
+        "paragraph": "Bulk orders may include customized flower colors, wrapping themes, ribbon combinations, personalized messages, company branding elements, graduation themes, event-specific decorations, and packaging preferences. Customers are encouraged to communicate customization requirements in advance to ensure accurate production planning and timely delivery.",
+        "semantic_tags": [
+          "bulk customization",
+          "branding",
+          "personalization",
+          "event themes"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "11",
+          "topic": "Bulk Orders",
+          "subtopic": "Customization"
+        }
+      },
+      {
+        "content_id": "S11_C4",
+        "content_type": "paragraph",
+        "heading": "Advance Planning Requirements",
+        "paragraph": "Because TwistNBloom products are handmade, customers placing bulk orders are encouraged to submit requests well in advance of their required delivery date. Early planning helps ensure material availability, production scheduling, customization accuracy, and timely fulfillment of large-volume orders.",
+        "semantic_tags": [
+          "advance planning",
+          "production scheduling",
+          "bulk fulfillment"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "11",
+          "topic": "Bulk Orders",
+          "subtopic": "Planning"
+        }
+      },
+      {
+        "content_id": "S11_C5",
+        "content_type": "paragraph",
+        "heading": "Pricing and Quotation Process",
+        "paragraph": "Pricing for bulk orders may vary depending on product type, quantity, customization requirements, packaging specifications, and delivery location. Customers can request quotations for large orders, and final pricing is communicated after reviewing project requirements and production feasibility.",
+        "semantic_tags": [
+          "pricing",
+          "quotation",
+          "bulk order pricing"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "11",
+          "topic": "Bulk Orders",
+          "subtopic": "Pricing"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S12",
+    "section_title": "Privacy Policy",
+    "section_summary": "Guidelines regarding customer information collection, usage, storage, protection, communication practices, and privacy commitments maintained by TwistNBloom.",
+    "keywords": [
+      "privacy policy",
+      "customer data",
+      "personal information",
+      "data security",
+      "payment security",
+      "customer privacy"
+    ],
+    "content": [
+      {
+        "content_id": "S12_C1",
+        "content_type": "paragraph",
+        "heading": "Information Collection",
+        "paragraph": "TwistNBloom collects customer information necessary for order processing, delivery, customer support, and service improvement. Information may include customer names, phone numbers, email addresses, shipping addresses, payment-related details, and customization preferences provided during the ordering process. Only information required for operational purposes is collected.",
+        "semantic_tags": [
+          "data collection",
+          "customer information",
+          "order processing"
+        ],
+        "important_entities": [
+          "TwistNBloom"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "12",
+          "topic": "Privacy",
+          "subtopic": "Information Collection"
+        }
+      },
+      {
+        "content_id": "S12_C2",
+        "content_type": "paragraph",
+        "heading": "Use of Customer Information",
+        "paragraph": "Customer information is used to process orders, coordinate deliveries, provide order updates, respond to customer inquiries, facilitate customization requests, and improve service quality. Information may also be used for transaction verification, fraud prevention, and operational communication related to purchases and customer support activities.",
+        "semantic_tags": [
+          "data usage",
+          "order fulfillment",
+          "customer support"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "12",
+          "topic": "Privacy",
+          "subtopic": "Data Usage"
+        }
+      },
+      {
+        "content_id": "S12_C3",
+        "content_type": "paragraph",
+        "heading": "Data Protection and Security",
+        "paragraph": "TwistNBloom implements reasonable security measures to protect customer information from unauthorized access, misuse, disclosure, or alteration. Access to sensitive customer data is limited to authorized personnel and service providers involved in order fulfillment, customer service, and payment processing operations.",
+        "semantic_tags": [
+          "data security",
+          "information protection",
+          "privacy safeguards"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "12",
+          "topic": "Privacy",
+          "subtopic": "Security"
+        }
+      },
+      {
+        "content_id": "S12_C4",
+        "content_type": "paragraph",
+        "heading": "Third-Party Service Providers",
+        "paragraph": "Certain customer information may be shared with trusted third-party service providers such as courier partners, payment processors, and logistics providers when necessary to complete transactions and deliver products. Such sharing is limited to operational requirements and is performed solely for the purpose of fulfilling customer orders and services.",
+        "semantic_tags": [
+          "third-party services",
+          "courier partners",
+          "payment processing"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "12",
+          "topic": "Privacy",
+          "subtopic": "Third-Party Sharing"
+        }
+      },
+      {
+        "content_id": "S12_C5",
+        "content_type": "paragraph",
+        "heading": "Customer Privacy Commitment",
+        "paragraph": "TwistNBloom is committed to maintaining customer privacy and does not sell customer information to external parties for commercial purposes. Customers may contact customer support regarding privacy-related concerns, data correction requests, or questions about how their information is used within the business operations.",
+        "semantic_tags": [
+          "privacy commitment",
+          "customer rights",
+          "data protection"
+        ],
+        "important_entities": [
+          "TwistNBloom"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "12",
+          "topic": "Privacy",
+          "subtopic": "Privacy Commitment"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S13",
+    "section_title": "Payment Policy",
+    "section_summary": "Information regarding accepted payment methods, payment verification procedures, transaction security, cash on delivery availability, and handling of payment-related issues.",
+    "keywords": [
+      "payment policy",
+      "online payments",
+      "UPI",
+      "cash on delivery",
+      "payment verification",
+      "transaction security"
+    ],
+    "content": [
+      {
+        "content_id": "S13_C1",
+        "content_type": "paragraph",
+        "heading": "Accepted Payment Methods",
+        "paragraph": "TwistNBloom accepts multiple payment methods to provide flexibility and convenience to customers. Supported payment options may include UPI payments, debit cards, credit cards, net banking, digital wallets, and other approved online payment solutions. Available payment methods may vary depending on customer location and payment gateway availability.",
+        "semantic_tags": [
+          "payment methods",
+          "UPI",
+          "cards",
+          "digital payments"
+        ],
+        "important_entities": [
+          "UPI"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "13",
+          "topic": "Payments",
+          "subtopic": "Accepted Methods"
+        }
+      },
+      {
+        "content_id": "S13_C2",
+        "content_type": "paragraph",
+        "heading": "Cash on Delivery Availability",
+        "paragraph": "Cash on Delivery (COD) may be available for selected serviceable locations. COD availability depends on delivery destination, order value, courier partner support, and operational constraints. Customers can verify COD availability during checkout before confirming their order.",
+        "semantic_tags": [
+          "cash on delivery",
+          "COD",
+          "checkout"
+        ],
+        "important_entities": [
+          "Cash on Delivery"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "13",
+          "topic": "Payments",
+          "subtopic": "Cash on Delivery"
+        }
+      },
+      {
+        "content_id": "S13_C3",
+        "content_type": "paragraph",
+        "heading": "Payment Verification",
+        "paragraph": "Orders may undergo payment verification to ensure transaction authenticity and reduce the risk of fraudulent activity. In certain situations, customers may be contacted to confirm payment details, billing information, or order-related information before order processing begins.",
+        "semantic_tags": [
+          "payment verification",
+          "fraud prevention",
+          "transaction validation"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "13",
+          "topic": "Payments",
+          "subtopic": "Verification"
+        }
+      },
+      {
+        "content_id": "S13_C4",
+        "content_type": "paragraph",
+        "heading": "Transaction Security",
+        "paragraph": "TwistNBloom prioritizes payment security by using trusted payment gateways and secure transaction processing methods. Customers are encouraged to complete payments only through authorized payment channels and avoid sharing sensitive payment credentials with unauthorized individuals or third parties.",
+        "semantic_tags": [
+          "payment security",
+          "secure transactions",
+          "payment gateway"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "13",
+          "topic": "Payments",
+          "subtopic": "Security"
+        }
+      },
+      {
+        "content_id": "S13_C5",
+        "content_type": "paragraph",
+        "heading": "Failed or Pending Transactions",
+        "paragraph": "In cases where a payment is deducted but the order is not confirmed, customers should contact customer support with relevant transaction details. Payment reconciliation and verification processes are performed before appropriate action is taken, including order confirmation or refund initiation when applicable.",
+        "semantic_tags": [
+          "failed payment",
+          "pending transaction",
+          "payment support"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "13",
+          "topic": "Payments",
+          "subtopic": "Transaction Issues"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S14",
+    "section_title": "Customer Support Policy",
+    "section_summary": "Guidelines regarding customer support services, communication channels, response timelines, complaint resolution, and order-related assistance.",
+    "keywords": [
+      "customer support",
+      "order assistance",
+      "complaints",
+      "customer service",
+      "support channels",
+      "issue resolution"
+    ],
+    "content": [
+      {
+        "content_id": "S14_C1",
+        "content_type": "paragraph",
+        "heading": "Customer Support Availability",
+        "paragraph": "TwistNBloom provides customer support to assist customers with product inquiries, customization requests, order tracking, payment concerns, delivery issues, returns, replacements, and general service-related questions. The support team aims to provide accurate information and timely assistance throughout the customer journey.",
+        "semantic_tags": [
+          "customer support",
+          "customer service",
+          "assistance"
+        ],
+        "important_entities": [
+          "TwistNBloom"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "14",
+          "topic": "Customer Support",
+          "subtopic": "Support Services"
+        }
+      },
+      {
+        "content_id": "S14_C2",
+        "content_type": "paragraph",
+        "heading": "Communication Channels",
+        "paragraph": "Customers may contact TwistNBloom through approved communication channels such as email, phone, messaging platforms, social media pages, and other officially designated support methods. Customers are encouraged to provide complete order information when requesting assistance to help expedite issue resolution.",
+        "semantic_tags": [
+          "communication",
+          "email support",
+          "customer contact"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "14",
+          "topic": "Customer Support",
+          "subtopic": "Communication Channels"
+        }
+      },
+      {
+        "content_id": "S14_C3",
+        "content_type": "paragraph",
+        "heading": "Order Assistance and Tracking Support",
+        "paragraph": "Customer support assists customers with order placement, customization clarification, shipping updates, tracking information, delivery status inquiries, and post-purchase concerns. Customers can request updates regarding order progress and shipment status whenever necessary.",
+        "semantic_tags": [
+          "order support",
+          "tracking support",
+          "shipping updates"
+        ],
+        "important_entities": [
+          "Tracking Link"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "14",
+          "topic": "Customer Support",
+          "subtopic": "Order Assistance"
+        }
+      },
+      {
+        "content_id": "S14_C4",
+        "content_type": "paragraph",
+        "heading": "Complaint Resolution Process",
+        "paragraph": "Customer complaints related to product quality, delivery issues, payment concerns, customization discrepancies, or service experiences are reviewed and investigated by the support team. Resolution efforts may include replacements, refunds, clarifications, or other corrective actions depending on the nature of the issue and applicable company policies.",
+        "semantic_tags": [
+          "complaints",
+          "issue resolution",
+          "customer satisfaction"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "14",
+          "topic": "Customer Support",
+          "subtopic": "Complaint Resolution"
+        }
+      },
+      {
+        "content_id": "S14_C5",
+        "content_type": "paragraph",
+        "heading": "Response Time Expectations",
+        "paragraph": "TwistNBloom aims to respond to customer inquiries and support requests as quickly as possible. Actual response times may vary depending on inquiry volume, business hours, seasonal demand, and the complexity of the issue being investigated. Customers are encouraged to include complete information when contacting support to facilitate faster assistance.",
+        "semantic_tags": [
+          "response time",
+          "support requests",
+          "customer communication"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "14",
+          "topic": "Customer Support",
+          "subtopic": "Response Management"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S15",
+    "section_title": "Sustainability and Product Care Guide",
+    "section_summary": "Information regarding the sustainability benefits of handmade pipe cleaner flowers and guidelines for maintaining product quality and longevity.",
+    "keywords": [
+      "sustainability",
+      "eco-friendly",
+      "reusable flowers",
+      "product care",
+      "maintenance",
+      "long-lasting gifts",
+      "handmade products"
+    ],
+    "content": [
+      {
+        "content_id": "S15_C1",
+        "content_type": "paragraph",
+        "heading": "Sustainable Gifting Alternative",
+        "paragraph": "TwistNBloom products provide a sustainable alternative to fresh flowers by offering handmade floral arrangements that are long-lasting, reusable, and designed for extended decorative use. Unlike fresh flowers that wilt within days, pipe cleaner flowers can retain their appearance for years with proper care. This durability reduces waste and makes the products suitable for customers seeking environmentally conscious gifting options.",
+        "semantic_tags": [
+          "sustainability",
+          "eco-friendly gifting",
+          "reusable flowers",
+          "waste reduction"
+        ],
+        "important_entities": [
+          "TwistNBloom"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "15",
+          "topic": "Sustainability",
+          "subtopic": "Eco-Friendly Products"
+        }
+      },
+      {
+        "content_id": "S15_C2",
+        "content_type": "paragraph",
+        "heading": "Handmade Craftsmanship and Longevity",
+        "paragraph": "Each TwistNBloom product is handcrafted using pipe cleaners and decorative craft materials selected for durability and visual appeal. The handmade production process emphasizes quality, customization, and long-term usability. Because the flowers do not require watering, sunlight, or special maintenance, they remain attractive decorative pieces for homes, offices, study spaces, and gifting purposes.",
+        "semantic_tags": [
+          "handmade products",
+          "durability",
+          "craftsmanship",
+          "long-lasting decor"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "15",
+          "topic": "Product Care",
+          "subtopic": "Durability"
+        }
+      },
+      {
+        "content_id": "S15_C3",
+        "content_type": "paragraph",
+        "heading": "Cleaning and Maintenance Guidelines",
+        "paragraph": "Customers should keep handmade floral products away from excessive moisture, direct water exposure, and harsh environmental conditions. Dust accumulation can be removed gently using a soft brush, microfiber cloth, or light air cleaning methods. Proper handling helps preserve the shape, color, and decorative appearance of the products over time.",
+        "semantic_tags": [
+          "cleaning",
+          "maintenance",
+          "product care",
+          "preservation"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "15",
+          "topic": "Product Care",
+          "subtopic": "Maintenance"
+        }
+      },
+      {
+        "content_id": "S15_C4",
+        "content_type": "paragraph",
+        "heading": "Storage Recommendations",
+        "paragraph": "When not in use, floral products should be stored in a clean and dry environment to prevent dust buildup and accidental deformation. Customers are encouraged to keep bouquets and decorative items away from heavy objects that could compress or damage delicate handcrafted components. Proper storage helps maintain product quality and extends product lifespan.",
+        "semantic_tags": [
+          "storage",
+          "product protection",
+          "care instructions"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "15",
+          "topic": "Product Care",
+          "subtopic": "Storage"
+        }
+      },
+      {
+        "content_id": "S15_C5",
+        "content_type": "paragraph",
+        "heading": "Benefits of Long-Lasting Floral Decor",
+        "paragraph": "Long-lasting handmade flowers offer decorative value beyond traditional gifting occasions. Customers can continue using bouquets, flower pots, keychains, and decorative accessories as keepsakes, room décor, office decorations, and memory items. This extended usability enhances customer value while supporting more sustainable consumption practices.",
+        "semantic_tags": [
+          "long-lasting flowers",
+          "decorative value",
+          "sustainable consumption",
+          "keepsakes"
+        ],
+        "important_entities": [],
+        "references": [],
+        "metadata": {
+          "page_number": "15",
+          "topic": "Sustainability",
+          "subtopic": "Long-Term Value"
+        }
+      }
+    ]
+  },
+  {
+    "section_id": "S16",
+    "section_title": "Frequently Asked Questions (FAQs)",
+    "section_summary": "Common customer questions regarding products, customization, delivery, payments, care instructions, and ordering processes.",
+    "keywords": [
+      "faq",
+      "questions",
+      "answers",
+      "customer support",
+      "orders",
+      "customization",
+      "delivery"
+    ],
+    "content": [
+      {
+        "content_id": "FAQ1",
+        "content_type": "faq",
+        "question": "Are the flowers real?",
+        "answer": "No. TwistNBloom products are handcrafted using pipe cleaners and decorative craft materials. They are designed to resemble real flowers while offering a long-lasting and reusable alternative."
+      },
+      {
+        "content_id": "FAQ2",
+        "content_type": "faq",
+        "question": "How long do the bouquets last?",
+        "answer": "With proper care, TwistNBloom bouquets can remain attractive for years. Unlike fresh flowers, they do not wilt and require minimal maintenance."
+      },
+      {
+        "content_id": "FAQ3",
+        "content_type": "faq",
+        "question": "Can I customize flower colors?",
+        "answer": "Yes. Customers can choose from multiple flower color options depending on product availability. Customization options also include wrapping styles, ribbon colors, and decorative add-ons."
+      },
+      {
+        "content_id": "FAQ4",
+        "content_type": "faq",
+        "question": "Can I add a personalized message to my order?",
+        "answer": "Yes. Personalized messages, greeting cards, names, graduation years, and special occasion notes can be included with eligible products."
+      },
+      {
+        "content_id": "FAQ5",
+        "content_type": "faq",
+        "question": "Do you offer customized bouquets?",
+        "answer": "Yes. Customers can request customized bouquets with specific flower combinations, color themes, decorative elements, wrapping styles, and personalized details."
+      },
+      {
+        "content_id": "FAQ6",
+        "content_type": "faq",
+        "question": "Do you provide graduation bouquets?",
+        "answer": "Yes. TwistNBloom offers graduation-themed bouquets, including personalized graduation bouquets that can feature names, graduation years, and customized decorative elements."
+      },
+      {
+        "content_id": "FAQ7",
+        "content_type": "faq",
+        "question": "How much does shipping cost?",
+        "answer": "Standard Shipping costs ₹160, Express Shipping costs ₹260, and Same-Day Delivery costs ₹350 where available."
+      },
+      {
+        "content_id": "FAQ8",
+        "content_type": "faq",
+        "question": "How long does delivery take?",
+        "answer": "Standard Shipping generally takes three to seven business days after dispatch. Express Shipping usually takes one to three business days. Delivery timelines may vary depending on location and seasonal demand."
+      },
+      {
+        "content_id": "FAQ9",
+        "content_type": "faq",
+        "question": "Do you offer same-day delivery?",
+        "answer": "Yes. Same-Day Delivery is available in selected serviceable locations for orders placed before 12:00 PM, subject to availability."
+      },
+      {
+        "content_id": "FAQ10",
+        "content_type": "faq",
+        "question": "Can I track my order?",
+        "answer": "Yes. Customers receive tracking information after order dispatch, allowing them to monitor shipment progress and delivery status."
+      },
+      {
+        "content_id": "FAQ11",
+        "content_type": "faq",
+        "question": "What payment methods are accepted?",
+        "answer": "TwistNBloom accepts UPI, debit cards, credit cards, net banking, digital wallets, and other supported online payment methods."
+      },
+      {
+        "content_id": "FAQ12",
+        "content_type": "faq",
+        "question": "Is Cash on Delivery available?",
+        "answer": "Yes. Cash on Delivery (COD) is available in selected locations depending on courier support and service availability."
+      },
+      {
+        "content_id": "FAQ13",
+        "content_type": "faq",
+        "question": "Can I cancel my order?",
+        "answer": "Orders may be canceled before production or customization begins. Once production has started or the order has been shipped, cancellation may not be possible."
+      },
+      {
+        "content_id": "FAQ14",
+        "content_type": "faq",
+        "question": "What should I do if I receive a damaged product?",
+        "answer": "Customers should contact customer support within 24 hours of delivery and provide clear photographs or videos showing the damage for verification."
+      },
+      {
+        "content_id": "FAQ15",
+        "content_type": "faq",
+        "question": "Are returns accepted?",
+        "answer": "Returns are accepted only for damaged products or incorrect deliveries that meet the eligibility requirements outlined in the return policy."
+      },
+      {
+        "content_id": "FAQ16",
+        "content_type": "faq",
+        "question": "How long does it take to receive a refund?",
+        "answer": "Approved refunds are generally processed within five to seven business days through the original payment method."
+      },
+      {
+        "content_id": "FAQ17",
+        "content_type": "faq",
+        "question": "How should I clean my handmade flowers?",
+        "answer": "Dust can be removed gently using a soft brush, microfiber cloth, or light air cleaning methods. Avoid exposing products to water or excessive moisture."
+      },
+      {
+        "content_id": "FAQ18",
+        "content_type": "faq",
+        "question": "Do the flowers require watering?",
+        "answer": "No. TwistNBloom flowers are handmade decorative products and do not require watering, sunlight, or special maintenance."
+      },
+      {
+        "content_id": "FAQ19",
+        "content_type": "faq",
+        "question": "Do you accept bulk or corporate orders?",
+        "answer": "Yes. TwistNBloom supports bulk orders, event gifting, graduation gifting, employee appreciation gifts, and corporate gifting projects with customization options."
+      },
+      {
+        "content_id": "FAQ20",
+        "content_type": "faq",
+        "question": "How can I contact TwistNBloom?",
+        "answer": "Customers can contact TwistNBloom through Instagram (@twistnbloom.co), WhatsApp (+91 9121400755), or email (twistnbloom@gmail.com) for inquiries, support, and customization requests."
+      }
+    ]
+  },
+  {
+    "section_id": "S17",
+    "section_title": "Contact Information",
+    "section_summary": "Official contact details and communication channels for customer inquiries, order support, customization requests, feedback, and business collaborations.",
+    "keywords": [
+      "contact",
+      "customer support",
+      "instagram",
+      "whatsapp",
+      "email",
+      "social media",
+      "business inquiries"
+    ],
+    "content": [
+      {
+        "content_id": "S17_C1",
+        "content_type": "paragraph",
+        "heading": "Official Contact Channels",
+        "paragraph": "Customers can connect with TwistNBloom through multiple communication channels for product inquiries, customization requests, order updates, customer support, feedback, and business collaborations. The brand maintains an active presence on Instagram for showcasing products and engaging with customers. WhatsApp can be used for quick communication regarding orders and customization requirements, while email serves as the official channel for detailed inquiries, support requests, and business-related communication.",
+        "semantic_tags": [
+          "contact",
+          "customer support",
+          "communication channels",
+          "social media"
+        ],
+        "important_entities": [
+          "TwistNBloom",
+          "Instagram",
+          "WhatsApp",
+          "Email"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "15",
+          "topic": "Contact Information",
+          "subtopic": "Communication Channels"
+        }
+      },
+      {
+        "content_id": "S17_C2",
+        "content_type": "contact",
+        "heading": "Contact Details",
+        "paragraph": "Official Instagram Handle: @twistnbloom.co. WhatsApp Contact Number: +91 9121400755. Official Email Address: twistnbloom@gmail.com. Customers may use these channels for order inquiries, customization discussions, delivery support, feedback, partnership opportunities, and general assistance.",
+        "semantic_tags": [
+          "instagram",
+          "whatsapp",
+          "email",
+          "customer contact"
+        ],
+        "important_entities": [
+          "@twistnbloom.co",
+          "+91 9121400755",
+          "twistnbloom@gmail.com"
+        ],
+        "references": [],
+        "metadata": {
+          "page_number": "15",
+          "topic": "Contact Information",
+          "subtopic": "Contact Details"
+        }
+      }
+    ]
+  }
+]
